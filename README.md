@@ -16,15 +16,18 @@ pip install opencv-python
 pip install mediapipe
 pip install pynput
 ```
-🚀 Usage
+## 🚀 Usage
+
 To run the application, simply run the script:
 
 ```bash
 main.py
 ```
 
-🤝 Contributing
+## 🤝 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📜 License
+## 📜 License
+
 This project is licensed under the MIT License.
